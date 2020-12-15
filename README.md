@@ -6,11 +6,11 @@ I'm Chris Ramakers and this is my [personal user manual](https://www.theunconven
 
 | Prop | Value |
 | --- | --- |
-| Manufactured | July 8th, 1981 |
-| Model | Male |
-| Location | Peer, Belgium |
-| Languages | Dutch, English, French |
-| Useful for | Engineering leadership, problem solving, facilitation |
+| **Manufactured** | July 8th, 1981 |
+| **Model** | Male |
+| **Location** | Peer, Belgium |
+| **Languages** | Dutch, English, French |
+| **Useful for** | Engineering management, problem solving, facilitation, coaching |
 
 ## Personality
 
