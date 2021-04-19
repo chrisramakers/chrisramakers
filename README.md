@@ -1,4 +1,5 @@
-![Twitter](https://img.shields.io/badge/-chrisramakers-informational?logo=twitter&logoColor=white&style=for-the-badge) ![Linkedin](https://img.shields.io/badge/-chrisramakers-informational?logo=linkedin&style=for-the-badge)
+[![Twitter](https://img.shields.io/badge/-chrisramakers-informational?logo=twitter&logoColor=white&style=for-the-badge)](https://www.twitter.com/chrisramakers)
+ [![Linkedin](https://img.shields.io/badge/-chrisramakers-informational?logo=linkedin&style=for-the-badge)](https://www.linkedin.com/in/chrisramakers)
 
 Hello 👋,
 
