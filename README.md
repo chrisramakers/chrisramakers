@@ -11,6 +11,7 @@ I'm Chris Ramakers and this is my [personal user manual](https://www.theunconven
 | ♂️ **Model** | Male (he/him) |
 | 🗺️ **Location** | [Peer, Belgium](https://goo.gl/maps/sB6S6FnjPmCP1iby8) |
 | 🗣️ **Languages** | Dutch, English, French |
-| 👐 **Useful for** | Engineering management, problem solving, facilitation, coaching |
+| 👐 **Useful for** | Engineering management, problem solving, facilitation, coaching, team building |
 | ❤️ **Loves** | Software architecture, Sociotechnical Systems, Domain Driven Design |
 | 🧔 **Personality** | Listener, Night Owl, Calm, Stress-resistant, [Steadiness DISC profile](https://www.discprofile.com/what-is-disc/disc-styles/steadiness) |
+| 🤓 **When I'm not working** | Boardgames, Dungeons & Dragons, Metalcore, Reading |
