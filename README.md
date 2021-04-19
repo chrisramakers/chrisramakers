@@ -1,4 +1,4 @@
-![Twitter Follow](https://img.shields.io/twitter/follow/chrisramakers?style=social) ![GitHub followers](https://img.shields.io/github/followers/chrisramakers?style=social)
+![Twitter](https://img.shields.io/badge/-chrisramakers-green?logo=twitter&logoColor=white&style=for-the-badge) ![Linkedin](https://img.shields.io/badge/-chrisramakers-green?logo=linkedin&style=for-the-badge)
 
 Hello 👋,
 
@@ -11,10 +11,5 @@ I'm Chris Ramakers and this is my [personal user manual](https://www.theunconven
 | **Location** | Peer, Belgium |
 | **Languages** | Dutch, English, French |
 | **Useful for** | Engineering management, problem solving, facilitation, coaching |
-
-## Personality
-
-- 👂 Listener
-- 🌔 Night owl
-- 👨‍💻 DiSC personality profile: [Steadiness](https://www.discprofile.com/what-is-disc/disc-styles/steadiness)
-- 🧩 [INFP Turbulent Mediator](https://www.16personalities.com/infp-personality) personality
+| **Loves** | Systems thinking, Sociotechnical Architecture, Domain Driven Design |
+| **Personality** | Listener, Night Owl, [Steadiness](https://www.discprofile.com/what-is-disc/disc-styles/steadiness) |
